@@ -1,6 +1,5 @@
 version = 0.1
-[staging]
-[staging.deploy]
+
 [staging.deploy.parameters]
 stack_name = "todo-list-aws-staging"
 s3_bucket = "aws-sam-cli-managed-staging-samclisourcebucket-upt09go84tay"
